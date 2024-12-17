@@ -1,0 +1,27 @@
+button {
+    float: right; /* Aligne le bouton à droite */
+    background-color: #ff6666; /* Rouge clair */
+    color: white; /* Texte blanc */
+    border: none; /* Supprime la bordure */
+     
+    cursor: pointer; /* Change le curseur en pointeur */
+    border-radius: 3px; /* Coins arrondis */
+    font-size: 14px; /* Taille de police */
+}
+
+body {
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    margin: 20px;
+    background: linear-gradient(135deg, purple, red); 
+    color: white ; 
+    text-align:center;
+}
+
+h1 {
+    text-align:center;
+}
+
+ul {
+    background-image: url("https://chine.in/images/2019/74decf574325f66b0456b94c64995758.png");
+    color: black;
+   }
